@@ -69,9 +69,9 @@ body{
     color: white;
 }
 @media screen and (max-width: 600px) {
-    #email, #copy, #pass, input[type=submit] {
+    #email, #copy, #buttn, #pass, input[type=submit] {
       width: 100%;
       margin-top: 0;
-      font-size: 5vw;
+      font-size: 3vw;
     }
   }
